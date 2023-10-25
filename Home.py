@@ -8,7 +8,7 @@ st.set_page_config(
 
 #st.sidebar.image('pages/Zomato_logo.png', width = 120)
 
-st.sidebar.image('pages/Zomato_logo.png', width=100, )
+st.sidebar.image('pages/logo.png', width=100, )
 st.sidebar.markdown('# Fartura Restaurantes')
 st.sidebar.markdown('## Trazendo a melhor experiência culinária!')
 st.sidebar.markdown("""---""")

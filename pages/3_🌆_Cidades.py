@@ -176,7 +176,7 @@ get_first_order_statistics(get_numerical_attributes(data))
 # Barra Lateral
 # -----------------------------------------
 
-st.sidebar.image('pages/Zomato_logo.png', width=100, )
+st.sidebar.image('pages/logo.png', width=100, )
 
 st.sidebar.markdown('# Fartura Restaurantes')
 st.sidebar.markdown('##### *Trazendo a melhor experiência culinária!*')
